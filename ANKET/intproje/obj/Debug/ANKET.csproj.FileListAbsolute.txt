@@ -1,0 +1,8 @@
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\ANKET.csproj.AssemblyReference.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\ANKET.csproj.CoreCompileInputs.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.dll
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.pdb
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\ANKET\ANKET\obj\Debug\ANKET.csproj.AssemblyReference.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\ANKET\ANKET\obj\Debug\ANKET.csproj.CoreCompileInputs.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\ANKET\ANKET\obj\Debug\intproje.dll
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\ANKET\ANKET\obj\Debug\intproje.pdb

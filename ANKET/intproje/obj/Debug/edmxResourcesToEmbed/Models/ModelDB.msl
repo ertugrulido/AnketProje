@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB01ModelStoreContainer" CdmEntityContainer="DB01Entities">
+    <EntitySetMapping Name="Ders">
+      <EntityTypeMapping TypeName="DB01Model.Soru">
+        <MappingFragment StoreEntitySet="Ders">
+          <ScalarProperty Name="soruId" ColumnName="dersId" />
+          <ScalarProperty Name="sorular" ColumnName="dersKodu" />
+          <ScalarProperty Name="soruCevap" ColumnName="dersAdi" />
+          <ScalarProperty Name="soruSayisi" ColumnName="dersKredi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kayit">
+      <EntityTypeMapping TypeName="DB01Model.Kayit">
+        <MappingFragment StoreEntitySet="Kayit">
+          <ScalarProperty Name="kayitId" ColumnName="kayitId" />
+          <ScalarProperty Name="kayitSoruId" ColumnName="kayitDersId" />
+          <ScalarProperty Name="kayitUyeId" ColumnName="kayitOgrId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrenci">
+      <EntityTypeMapping TypeName="DB01Model.Uye">
+        <MappingFragment StoreEntitySet="Ogrenci">
+          <ScalarProperty Name="uyeId" ColumnName="ogrId" />
+          <ScalarProperty Name="uyeNo" ColumnName="ogrNo" />
+          <ScalarProperty Name="uyeAdsoyad" ColumnName="ogrAdsoyad" />
+          <ScalarProperty Name="uyeKayitTarih" ColumnName="ogrDogTarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

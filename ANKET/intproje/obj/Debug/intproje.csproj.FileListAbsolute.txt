@@ -1,0 +1,52 @@
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\ApplicationInsights.config
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\csc.exe
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\vbc.exe
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\intproje.dll.config
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\intproje.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\intproje.pdb
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\EntityFramework.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\EntityFramework.SqlServer.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.Web.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Newtonsoft.Json.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Net.Http.Formatting.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Web.Http.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Web.Http.WebHost.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\EntityFramework.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\EntityFramework.SqlServer.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.Web.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Newtonsoft.Json.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Net.Http.Formatting.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Web.Http.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\System.Web.Http.WebHost.xml
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\obj\Debug\intproje.csprojResolveAssemblyReference.cache
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\obj\Debug\intproje.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\obj\Debug\intproje.pdb
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\Swashbuckle.Core.dll
+C:\Users\baran\Desktop\proje int programcılığı\intproje\intproje\bin\WebActivatorEx.dll
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.csproj.AssemblyReference.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.csproj.CoreCompileInputs.cache
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.dll
+C:\Users\erenb\Desktop\Internet-Programciligi-2-Vize-Projesi-main\intproje\intproje\obj\Debug\intproje.pdb

@@ -1,0 +1,2 @@
+C:\Users\erenb\Desktop\ANKET\intproje\obj\Debug\anketproje.csproj.AssemblyReference.cache
+C:\Users\erenb\Desktop\ANKET\intproje\obj\Debug\anketproje.csproj.CoreCompileInputs.cache
